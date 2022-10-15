@@ -1,1 +1,12 @@
+This project was created as a school project. 
+
+The assignment is to create an application which is able to hide text in audio file without using any stegano libraries.
+
+The application is made from three main functions.
+  
+  ENCODE function 
+  
+  DECODE function 
+  
+  and STEGANOGRAPHY function using two mentioned functions above. 
 
