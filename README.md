@@ -1,6 +1,8 @@
 # PYTHON
 
-This repisitory is going to containg projects created in free time or as a school projects. 
+*IN PROCESS*
+
+This repository is going to containg projects created in free time or as a school projects. 
 
 Steganography - hiding text in audio file 
 
